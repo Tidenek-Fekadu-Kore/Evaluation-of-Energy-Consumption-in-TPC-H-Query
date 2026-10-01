@@ -1,6 +1,6 @@
 Energy Consumption and Performance Evaluation in TPC-H Query Processing
 
-Overview
+Overview:
 This repository contains the experimental artifact, workload configurations, raw measurement datasets, and plotting utilities used to evaluate the relationship between execution time, CPU energy, memory energy, and total energy consumption across TPC-H query workloads at multiple data volumes (1 GB, 3 GB, and 5 GB).
 
 Methodology & Attribution:
