@@ -3,7 +3,7 @@ Energy Consumption and Performance Evaluation in TPC-H Query Processing
 Overview
 This repository contains the experimental artifact, workload configurations, raw measurement datasets, and plotting utilities used to evaluate the relationship between execution time, CPU energy, memory energy, and total energy consumption across TPC-H query workloads at multiple data volumes (1 GB, 3 GB, and 5 GB).
 
-Methodology & Attribution
+Methodology & Attribution:
 The energy estimation and profiling framework applied in this study builds upon the real-time energy estimation methodology established by Kore et al. (2025):
 Kore Tidenek Fekadu, Sarramia David, Kang Myoung-Ah, and Pinet François.
 2025. Towards sustainable DBMS: A framework for real-time energy estima-
